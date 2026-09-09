@@ -4,6 +4,7 @@ Página de catálogo de vídeos desenvolvido na unidade "Página Web: criando um
 ## Tecnologias utilizadas
 - HTML
 - CSS
+- JavaScript
 
 ## Acessando o código
 Para acessar o código referente às aulas, clique no seletor `main` do repositório e selecione a aula desejada.
